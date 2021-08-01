@@ -1,0 +1,7 @@
+C:\Users\julissa\Documents\programacion I\calculo_de_notas\calculo_de_notas\obj\Debug\calculo_de_notas.csproj.AssemblyReference.cache
+C:\Users\julissa\Documents\programacion I\calculo_de_notas\calculo_de_notas\obj\Debug\calculo_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\julissa\Documents\programacion I\calculo_de_notas\calculo_de_notas\bin\Debug\calculo_de_notas.exe.config
+C:\Users\julissa\Documents\programacion I\calculo_de_notas\calculo_de_notas\bin\Debug\calculo_de_notas.exe
+C:\Users\julissa\Documents\programacion I\calculo_de_notas\calculo_de_notas\bin\Debug\calculo_de_notas.pdb
+C:\Users\julissa\Documents\programacion I\calculo_de_notas\calculo_de_notas\obj\Debug\calculo_de_notas.exe
+C:\Users\julissa\Documents\programacion I\calculo_de_notas\calculo_de_notas\obj\Debug\calculo_de_notas.pdb
